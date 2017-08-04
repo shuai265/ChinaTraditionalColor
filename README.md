@@ -1,5 +1,9 @@
 # ChinaTraditionalColor
-
+###说明
+将一些中国传统颜色打包放入一个分类中。
+###使用
+将UIColor分类文件下载到本地，拖入到项目中即可。
+###颜色列表
 1. ![](https://placehold.it/15/ffb3a7/000000?text=+) 粉红 `[UIColor ccFenHongColor]` RGB:`255,179,167`
 2. ![](https://placehold.it/15/ed5736/000000?text=+) 妃色 `[UIColor ccFeiSeColor]` RGB:`237,87,54`
 3. ![](https://placehold.it/15/f00056/000000?text=+) 品红 `[UIColor ccPinHongColor]` RGB:`240,0,86`
